@@ -274,5 +274,5 @@ with st.expander("Temperature Conversion Quiz"):
 
 # Footer
 st.markdown("---")
-st.markdown("Created with 💕 By Hafiz Muhammad Umar Farooq using Streamlit")
+st.markdown("Created by jareer shafiq  using Streamlit")
 
